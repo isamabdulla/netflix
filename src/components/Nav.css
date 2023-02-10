@@ -1,0 +1,16 @@
+.logo{
+     width: 200px;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    z-index: 1;
+}
+
+.nav_black{
+    background-color: black;
+}
